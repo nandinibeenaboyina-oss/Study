@@ -1,0 +1,6 @@
+{
+  "name": "B.Tech CSE Study Planner & Exam Prep",
+  "description": "Comprehensive student study planner, subject mastery tracker, interactive quiz engine, notes organizer, and placement preparation suite for B.Tech Computer Science and Engineering students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
